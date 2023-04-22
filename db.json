@@ -1,0 +1,94 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "name": "Andriy",
+            "sirname": "Moskalenko",
+            "photo_url": "https://i.pinimg.com/originals/0e/50/39/0e503918829c61bd24803ce064546cee.jpg",
+            "balance": 1500
+        },
+
+        {
+            "id": 2,
+            "name": "Slava",
+            "sirname": "Khutornij",
+            "photo_url": "https://play-lh.googleusercontent.com/7Ac5TgaL15Ra4bvFVHJKCdJp4qvnL4djZj5bKc6RN-MZjzrvkeHbJytek0NPTSdZcp8",
+            "balance": 0
+        },
+
+        {
+            "id": 3,
+            "name": "Dima",
+            "sirname": "Vasolkiv",
+            "photo_url": "https://cdnb.artstation.com/p/assets/images/images/041/540/441/large/tr-n-thien-d-vu-799eb5de-173a-4c07-98a1-a585e9fe042f.jpg?1631985985",
+            "balance": 100
+        }
+    ],
+
+    "products":[
+        {
+            "id": 2,
+            "name": "Акриловая фигурка Милый во Франксе №1",
+            "description": "Darling in the FranXX",
+            "price": 330,
+            "author_id": 3,
+            "photo_url": "https://images.prom.ua/4415670387_w640_h640_akrilovaya-figurka-milyj.jpg"
+        },
+
+        {
+            "id": 3,
+            "name": "Подушка дакимакура Тика Фудзивара аниме Госпожа Кагуя",
+            "description": "dak0886",
+            "price": 1300,
+            "author_id": 2,
+            "photo_url": "https://images.prom.ua/2439709096_w640_h640_podushka-dakimakura-tika.jpg"
+        },
+
+        {
+            "id": 2,
+            "name": "Дакимакура 150х50 см 1200 грн Маи Сакурадзима",
+            "description": "Mai Sakurajima",
+            "price": 1100,
+            "author_id": 1,
+            "photo_url": "https://images.prom.ua/3986724607_w640_h640_dakimakura-150h50-sm.jpg"
+        },
+
+        {
+            "id": 1,
+            "name": "Худи оверсайз унисекс",
+            "description": "Taboo Kyiv Shinigami Reflective Black",
+            "price": 999,
+            "author_id": 2,
+            "photo_url": "https://images.prom.ua/4217377901_w640_h640_hudi-oversajz-uniseks.jpg"
+        },
+
+        {
+            "id": 3,
+            "name": "Аниме Кольцо Наруто Узумаки Ниндзя из аниме",
+            "description": "Anime Ring Naruto",
+            "price": 145,
+            "author_id": 2,
+            "photo_url": "https://images.prom.ua/3379766838_w640_h640_anime-koltso-naruto.jpg"
+        },
+
+        {
+            "id": 2,
+            "name": "Дакимакура Трикси Trixie Подушка аниме обнимашка",
+            "description": "двусторонняя со съёмной наволочкой принт",
+            "price": 1100,
+            "author_id": 1,
+            "photo_url": "https://images.prom.ua/3986723398_w640_h640_dakimakura-150h50-sm.jpg"
+        },
+
+        {
+            "id": 3,
+            "name": "Дакимакура Ридзэ Тэдэдза подушка",
+            "description": "Двусторонняя со съёмной наволочкой",
+            "price": 1000,
+            "author_id": 2,
+            "photo_url": "https://images.prom.ua/3414595163_w640_h640_dakimakura-150-h.jpg"
+        }
+    ]
+
+
+}
